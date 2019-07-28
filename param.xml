@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hidexml.xsl" type="text/xsl"?>
+<param>
+	<sid1>
+		<stid>76561198210577821</stid>
+	</sid1>
+	
+	<sid2>
+		<stid>76561198102770972</stid>
+	</sid2>
+	
+	<sid3>
+		<stid>76561198163770205</stid>
+	</sid3>
+	
+	<sid4>
+		<stid>76561198128018315</stid>
+	</sid4>
+	
+	<sid5>
+		<stid>76561198022395565</stid>
+	</sid5>
+	
+	<sid6>
+		<stid>76561198154061206</stid>
+	</sid6>
+	
+	<staffheader>
+		<staff>Staff</staff>
+	</staffheader>
+	
+	<rank1>
+		<rank>Owner</rank>
+	</rank1>
+	
+	<rank2>
+		<rank>Head Staff</rank>
+	</rank2>
+	
+	<rank3>
+		<rank>SuperAdmin</rank>
+	</rank3>
+	
+	<rank4>
+		<rank>Admin</rank>
+	</rank4>
+	
+	<rank5>
+		<rank>Moderator</rank>
+	</rank5>
+	
+	<rank6>
+		<rank>Operator</rank>
+	</rank6>
+	
+	<cboxheader>
+		<cbox>Rules</cbox>
+	</cboxheader>
+	
+	<cbox1>
+		<cbox>Do not RDM.</cbox>
+	</cbox1>
+	
+	<cbox2>
+		<cbox>Do not break NLR.</cbox>
+	</cbox2>
+	
+	<cbox3>
+		<cbox>Do not disrespect anyone.</cbox>
+	</cbox3>
+	
+	<cbox4>
+		<cbox>Use common sense!</cbox>
+	</cbox4>
+	
+	<cbox5>
+		<cbox>Follow !MOTD rules</cbox>
+	</cbox5>
+	
+	<background>
+		<bg>inc/bg/bg.jpg</bg>
+	</background>
+	
+	<vid1>
+		<vid>lmpJ_cKHli4</vid>
+	</vid1>
+	
+	<vid2>
+		<vid>YQKEJyDiIZc</vid>
+	</vid2>
+	
+	<vid3>
+		<vid>zaHvon_fZp8</vid>
+	</vid3>
+	
+	<mname1>
+		<mname>KSI - Two Birds One Stone</mname>
+	</mname1>
+	
+	<mname2>
+		<mname>KSI - Little Boy</mname>
+	</mname2>
+	
+	<mname3>
+		<mname>KSI - Adams Apple</mname>
+	</mname3>
+	
+	<style>
+		<theme>white</theme>
+	</style>
+	
+	<about>
+		<txt>Our server has been successfully running for 2 years and we are proud to say that was have an active player base with friendly staff!</txt>
+	</about>
+	
+	<website>
+		<url>www.hawkservers.co</url>
+	</website>
+	
+	<store>
+		<url>www.hawkservers.co/store</url>
+	</store>
+	
+	<teamspeak>
+		<url>94.23.180.163</url>
+	</teamspeak>
+	
+	<dis_music>
+		<dis>true</dis>
+	</dis_music>
+	
+	<dis_staff>
+		<dis>0</dis>
+	</dis_staff>
+	
+	<dis_cbox>
+		<dis>0</dis>
+	</dis_cbox>
+	
+	<dis_about>
+		<dis>0</dis>
+	</dis_about>
+	
+	<dis_website>
+		<dis>0</dis>
+	</dis_website>
+	
+	<dis_store>
+		<dis>0</dis>
+	</dis_store>
+	
+	<dis_teamspeak>
+		<dis>0</dis>
+	</dis_teamspeak>
+	
+	<sname>
+		<name>Aniq Load</name>
+	</sname>
+	<descr>
+		<desc>A very nice Loading Screen</desc>
+	</descr>
+	<volume>
+		<vol>1</vol>
+	</volume>
+	<color>
+		<col>white</col>
+	</color>
+</param>
